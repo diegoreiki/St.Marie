@@ -1,0 +1,1595 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TM_Transport\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-17 18:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-4.9.11"
+
+#: inc/template-tags.php:176
+msgid "% Comments"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: inc/extras.php:198
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:233
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/extras.php:199
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:162 inc/template-tags.php:168
+#: template-parts/content-index.php:22 template-parts/content-blog.php:27
+#: template-parts/content-single.php:26
+#: inc/vc-template/thememove_recentposts.php:47
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "1 Comment"
+msgstr ""
+
+#: inc/extras.php:196
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:13
+msgid "Action buttons/price slider/layered nav UI"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:80
+msgid "All"
+msgstr ""
+
+#: inc/customizer/setups/site-favicon.php:38
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:43
+msgid "Archive layout"
+msgstr ""
+
+#: inc/template-tags.php:235
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:229
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:201
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:50
+msgid "Back to top"
+msgstr ""
+
+#: inc/customizer/customizer.php:158 inc/customizer/customizer.php:195
+#: inc/customizer/customizer.php:232 inc/customizer/customizer.php:269
+#: inc/customizer/customizer.php:306 inc/customizer/customizer.php:343
+#: inc/customizer/customizer.php:396 inc/customizer/customizer.php:433
+#: inc/customizer/customizer.php:470
+msgid "Background"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:66
+msgid "Background Attachment"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:53
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/setups/header-bg.php:20
+#: inc/customizer/setups/button-bg.php:12 inc/customizer/setups/site-bg.php:12
+#: inc/customizer/setups/footer-bg.php:12
+#: inc/customizer/setups/footer-bg.php:38 inc/customizer/setups/page-bg.php:20
+#: inc/customizer/setups/post-bg.php:20 inc/customizer/setups/top-bg.php:12
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/setups/button-bg.php:27
+msgid "Background color on hover"
+msgstr ""
+
+#: inc/customizer/setups/page-bg.php:49 inc/customizer/setups/post-bg.php:49
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:54
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:77
+msgid "Background Opacity"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Position"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:60
+msgid "Background Repeat"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:63
+msgid "Background Size"
+msgstr ""
+
+#. Description of the theme
+msgid "Best transport theme"
+msgstr ""
+
+#: index.php:18
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/setups/nav-border.php:20
+msgid "Boder width"
+msgstr ""
+
+#: inc/customizer/customizer.php:188 inc/customizer/customizer.php:225
+#: inc/customizer/customizer.php:262 inc/customizer/customizer.php:299
+#: inc/customizer/customizer.php:336 inc/customizer/customizer.php:389
+#: inc/customizer/customizer.php:426 inc/customizer/customizer.php:463
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:46
+#: inc/customizer/setups/button-border.php:48
+#: inc/customizer/setups/button-border.php:49
+#: inc/customizer/setups/button-border.php:63
+#: inc/customizer/setups/footer-border.php:46
+#: inc/customizer/setups/top-border.php:60
+#: inc/customizer/setups/nav-border.php:48
+#: inc/customizer/setups/nav-border.php:102
+msgid "Border color"
+msgstr ""
+
+#: inc/customizer/setups/nav-border.php:57
+#: inc/customizer/setups/nav-border.php:111
+msgid "Border color on hover"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:26
+#: inc/customizer/setups/button-border.php:28
+#: inc/customizer/setups/footer-border.php:26
+#: inc/customizer/setups/top-border.php:33
+#: inc/customizer/setups/nav-border.php:31
+#: inc/customizer/setups/nav-border.php:85
+msgid "Border style"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:12
+#: inc/customizer/setups/button-border.php:12
+#: inc/customizer/setups/footer-border.php:12
+#: inc/customizer/setups/top-border.php:12
+#: inc/customizer/setups/nav-border.php:74
+msgid "Border width"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:72
+msgid "Boxed mode"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:61
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:155
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:73
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:129
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:96
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:38
+msgid "Buttons and tabs"
+msgstr ""
+
+#: inc/vc-maps/testimonial.php:5 inc/vc-maps/button.php:5
+#: inc/vc-maps/blog.php:5 inc/vc-maps/google-map.php:5
+#: inc/vc-maps/recent-post.php:5
+msgid "by TM Transport"
+msgstr ""
+
+#: inc/customizer/setups/header-style.php:102
+msgid "Cart Icon Color"
+msgstr ""
+
+#: inc/customizer/setups/header-style.php:123
+msgid "Cart Number Color"
+msgstr ""
+
+#: inc/customizer/setups/woo-layout.php:12
+msgid "Category Product Page Layout"
+msgstr ""
+
+#: inc/template-tags.php:197
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:75
+msgid "Center Bottom"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Center"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/setups/site-logo.php:13
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:27
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: inc/customizer/setups/site-logo.php:23
+msgid "Choose a image for retina logo"
+msgstr ""
+
+#: inc/meta-box.php:59
+msgid "Choose a layout you want"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:82
+msgid ""
+"Choose a map style. This approach changes the style of the Roadmap types "
+"(base imagery in terrain and satellite views is not affected, but roads, "
+"labels, etc. respect styling rules"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:69
+msgid "Choose a map type"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:44
+msgid "Choose the archive layout you want"
+msgstr ""
+
+#: inc/customizer/setups/woo-layout.php:13
+#: inc/customizer/setups/woo-layout.php:14
+msgid "Choose the category product page layout you want"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:13
+msgid "Choose the header type you want"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:13
+#: inc/customizer/setups/post-layout.php:14
+msgid "Choose the post layout you want"
+msgstr ""
+
+#: inc/customizer/setups/woo-layout.php:29
+#: inc/customizer/setups/woo-layout.php:30
+msgid "Choose the product page layout you want"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:67
+msgid "Choose the search layout you want"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:21
+#: inc/customizer/setups/page-layout.php:13
+#: inc/customizer/setups/page-layout.php:14
+msgid "Choose the site layout you want"
+msgstr ""
+
+#: inc/customizer/io.php:15
+msgid ""
+"Click the button below to export the customization settings for this theme."
+msgstr ""
+
+#: inc/customizer/customizer.php:144 inc/customizer/customizer.php:449
+#: inc/customizer/setups/footer-style.php:135
+#: inc/customizer/setups/nav-border.php:47
+#: inc/customizer/setups/nav-border.php:101
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:97
+#: inc/customizer/setups/woo-color.php:130
+msgid "Color for button"
+msgstr ""
+
+#: comments.php:106
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:38 comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:62
+msgid "Contain"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:33
+msgid "Content for info window"
+msgstr ""
+
+#: inc/meta-box.php:65
+msgid "Content-Sidebar"
+msgstr ""
+
+#: template-parts/content-index.php:36 template-parts/content-blog.php:41
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/content.php:26
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:85
+#: inc/customizer/setups/copyright-layout.php:12
+msgid "Copyright"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:61
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Custom Code"
+msgstr ""
+
+#: inc/customizer/customizer.php:479 inc/customizer/setups/custom-css.php:21
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:486 inc/customizer/setups/custom-js.php:21
+msgid "Custom JS"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:82
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:33
+#: inc/customizer/setups/button-border.php:35
+#: inc/customizer/setups/footer-border.php:33
+#: inc/customizer/setups/top-border.php:40
+#: inc/customizer/setups/nav-border.php:38
+#: inc/customizer/setups/nav-border.php:92
+msgid "Dashed"
+msgstr ""
+
+#: inc/template-tags.php:207
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/meta-box.php:63
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/setups/page-bg.php:50 inc/customizer/setups/post-bg.php:50
+msgid "Default background image for your header"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:83
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:34
+#: inc/customizer/setups/button-border.php:36
+#: inc/customizer/setups/footer-border.php:34
+#: inc/customizer/setups/top-border.php:41
+#: inc/customizer/setups/nav-border.php:39
+#: inc/customizer/setups/nav-border.php:93
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:35
+#: inc/customizer/setups/button-border.php:37
+#: inc/customizer/setups/footer-border.php:35
+#: inc/customizer/setups/top-border.php:42
+#: inc/customizer/setups/nav-border.php:40
+#: inc/customizer/setups/nav-border.php:94
+msgid "Double"
+msgstr ""
+
+#: inc/template-tags.php:180 template-parts/content-page.php:28
+msgid "Edit"
+msgstr ""
+
+#: comments.php:94
+msgid "Email *"
+msgstr ""
+
+#: inc/customizer/setups/custom-css.php:12
+msgid "Enable custom css"
+msgstr ""
+
+#: inc/customizer/setups/custom-js.php:12
+msgid "Enable custom JS"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:51
+msgid "Enabling this option will display Back to top button"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:62
+msgid "Enabling this option will display breadcrumb on every page"
+msgstr ""
+
+#: inc/customizer/setups/copyright-layout.php:13
+msgid "Enabling this option will display copyright area"
+msgstr ""
+
+#: inc/customizer/setups/top-layout.php:13
+msgid "Enabling this option will display top area"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:21
+msgid "Enter address or coordinate."
+msgstr ""
+
+#: inc/vc-maps/google-map.php:13
+msgid ""
+"Enter Google API, get it here https://developers.google."
+"com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:40
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:47
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: inc/customizer/setups/copyright-layout.php:23
+#: inc/customizer/setups/copyright-layout.php:45
+msgid "Entry the text for left block"
+msgstr ""
+
+#: inc/vc-maps/button.php:18
+msgid "Entry your url here"
+msgstr ""
+
+#: inc/vc-maps/button.php:25
+msgid "Example: fa-arrow-right"
+msgstr ""
+
+#: inc/customizer/io.php:12 inc/customizer/io.php:18
+msgid "Export"
+msgstr ""
+
+#: inc/customizer/customizer.php:137 inc/customizer/setups/site-favicon.php:20
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer/setups/site-favicon.php:39
+msgid "File must be .png format. Optimal dimensions: 152px x 152px"
+msgstr ""
+
+#: inc/customizer/setups/site-favicon.php:21
+msgid "File must be .png or .ico format. Optimal dimensions: 32px x 32px"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:64
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/setups/post-style.php:74
+#: inc/customizer/setups/header-style.php:73
+#: inc/customizer/setups/page-style.php:74
+#: inc/customizer/setups/site-style.php:74
+#: inc/customizer/setups/site-style.php:151
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/setups/button-style.php:12
+#: inc/customizer/setups/post-style.php:21
+#: inc/customizer/setups/top-style.php:27
+#: inc/customizer/setups/header-style.php:20
+#: inc/customizer/setups/nav-style.php:45
+#: inc/customizer/setups/nav-style.php:142
+#: inc/customizer/setups/footer-style.php:21
+#: inc/customizer/setups/page-style.php:21
+#: inc/customizer/setups/site-style.php:21
+#: inc/customizer/setups/site-style.php:98
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/setups/button-style.php:26
+#: inc/customizer/setups/post-style.php:90
+#: inc/customizer/setups/top-style.php:48
+#: inc/customizer/setups/header-style.php:34
+#: inc/customizer/setups/nav-style.php:78
+#: inc/customizer/setups/nav-style.php:175
+#: inc/customizer/setups/footer-style.php:35
+#: inc/customizer/setups/page-style.php:90
+#: inc/customizer/setups/site-style.php:54
+msgid "Font Size"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:92
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:91
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:90
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/setups/button-style.php:46
+#: inc/customizer/setups/post-style.php:35
+#: inc/customizer/setups/top-style.php:75
+#: inc/customizer/setups/header-style.php:54
+#: inc/customizer/setups/nav-style.php:59
+#: inc/customizer/setups/nav-style.php:156
+#: inc/customizer/setups/footer-style.php:55
+#: inc/customizer/setups/page-style.php:35
+#: inc/customizer/setups/site-style.php:35
+#: inc/customizer/setups/site-style.php:112
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Footer"
+msgstr ""
+
+#: functions.php:167 functions.php:169
+msgid "Footer 1 Widget Area"
+msgstr ""
+
+#: functions.php:177 functions.php:179
+msgid "Footer 2 Widget Area"
+msgstr ""
+
+#: functions.php:187 functions.php:189
+msgid "Footer 3 Widget Area"
+msgstr ""
+
+#: inc/meta-box.php:64
+msgid "Full width"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "General"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:85
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/setups/site-style.php:175
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-style.php:195
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-style.php:215
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-style.php:235
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "Header"
+msgstr ""
+
+#: functions.php:136 functions.php:138
+msgid "Header Right"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:12
+msgid "Header Type"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:58
+msgid "High Light Color"
+msgstr ""
+
+#: 404.php:16 search.php:16 archive.php:21 page.php:40 single.php:17
+#: woocommerce/single-product.php:15 woocommerce/archive-product.php:20
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:146
+msgid "Hover background color for button"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:113
+msgid "Hover color for button"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://thememove.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://transport.thememove.com/"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:111
+msgid ""
+"If you want to use multiple Google Maps in one page, please add a class name "
+"for them."
+msgstr ""
+
+#: inc/customizer/io.php:20 inc/customizer/io.php:25
+msgid "Import"
+msgstr ""
+
+#: template-parts/content-index.php:22 template-parts/content-blog.php:27
+#: template-parts/content-single.php:26
+#: inc/vc-template/thememove_recentposts.php:47
+msgid "In "
+msgstr ""
+
+#: inc/customizer/customizer.php:233
+msgid "In this section you can control all background settings of buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:344
+msgid "In this section you can control all background settings of footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:307
+msgid "In this section you can control all background settings of header"
+msgstr ""
+
+#: inc/customizer/customizer.php:196
+msgid "In this section you can control all background settings of navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:397
+msgid "In this section you can control all background settings of pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:434
+msgid "In this section you can control all background settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:270
+msgid "In this section you can control all background settings of top area"
+msgstr ""
+
+#: inc/customizer/customizer.php:471
+msgid "In this section you can control all background settings of woocommerce"
+msgstr ""
+
+#: inc/customizer/customizer.php:159
+msgid "In this section you can control all background settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:226
+msgid "In this section you can control all border settings of buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:337
+msgid "In this section you can control all border settings of footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:300
+msgid "In this section you can control all border settings of header"
+msgstr ""
+
+#: inc/customizer/customizer.php:189
+msgid "In this section you can control all border settings of navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:390
+msgid "In this section you can control all border settings of pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:427
+msgid "In this section you can control all border settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:263
+msgid "In this section you can control all border settings of top area"
+msgstr ""
+
+#: inc/customizer/customizer.php:464
+msgid "In this section you can control all border settings of woocommerce"
+msgstr ""
+
+#: inc/customizer/customizer.php:450
+msgid "In this section you can control all color settings of woocommerce"
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "In this section you can control all color settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:138
+msgid "In this section you can control all favicon settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:117
+msgid "In this section you can control all general settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:205
+msgid "In this section you can control all layout settings of buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:353
+msgid "In this section you can control all layout settings of copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+msgid "In this section you can control all layout settings of footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:279
+msgid "In this section you can control all layout settings of header"
+msgstr ""
+
+#: inc/customizer/customizer.php:168
+msgid "In this section you can control all layout settings of navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:369
+msgid "In this section you can control all layout settings of pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:406
+msgid "In this section you can control all layout settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:242
+msgid "In this section you can control all layout settings of top area"
+msgstr ""
+
+#: inc/customizer/customizer.php:443
+msgid "In this section you can control all layout settings of woocommerce"
+msgstr ""
+
+#: inc/customizer/customizer.php:124
+msgid "In this section you can control all layouts settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "In this section you can control all logo settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:219
+msgid "In this section you can control all spacing settings of buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:330
+msgid "In this section you can control all spacing settings of footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:293
+msgid "In this section you can control all spacing settings of header"
+msgstr ""
+
+#: inc/customizer/customizer.php:182
+msgid "In this section you can control all spacing settings of navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:383
+msgid "In this section you can control all spacing settings of pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:420
+msgid "In this section you can control all spacing settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "In this section you can control all spacing settings of top area"
+msgstr ""
+
+#: inc/customizer/customizer.php:457
+msgid "In this section you can control all spacing settings of woocommerce"
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "In this section you can control all style settings of buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:360
+msgid "In this section you can control all style settings of copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:323
+msgid "In this section you can control all style settings of footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:286
+msgid "In this section you can control all style settings of header"
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+msgid "In this section you can control all style settings of navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:376
+msgid "In this section you can control all style settings of pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:413
+msgid "In this section you can control all style settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:249
+msgid "In this section you can control all style settings of top area"
+msgstr ""
+
+#: inc/customizer/customizer.php:152
+msgid "In this section you can control all style settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:480
+msgid "In this section you can control custom css"
+msgstr ""
+
+#: inc/customizer/customizer.php:487
+msgid "In this section you can control custom javascript"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:59
+msgid "Inherit"
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:86
+msgid "Khmer"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:88
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/customizer.php:167 inc/customizer/customizer.php:204
+#: inc/customizer/customizer.php:241 inc/customizer/customizer.php:278
+#: inc/customizer/customizer.php:315 inc/customizer/customizer.php:352
+#: inc/customizer/customizer.php:368 inc/customizer/customizer.php:405
+#: inc/customizer/customizer.php:442
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:123
+msgid "Layouts"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "Leave a comment"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:69
+msgid "Left Bottom"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/setups/copyright-layout.php:22
+msgid "Left Text"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/setups/post-style.php:54
+#: inc/customizer/setups/page-style.php:54
+#: inc/customizer/setups/site-style.php:131
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/setups/nav-bg.php:36 inc/customizer/setups/nav-bg.php:37
+#: inc/customizer/setups/nav-bg.php:60 inc/customizer/setups/nav-bg.php:61
+msgid "Link background"
+msgstr ""
+
+#: inc/customizer/setups/nav-bg.php:75
+msgid "Link background on hover"
+msgstr ""
+
+#: inc/customizer/setups/button-style.php:65
+#: inc/customizer/setups/button-style.php:66
+#: inc/customizer/setups/top-style.php:101
+#: inc/customizer/setups/top-style.php:102
+#: inc/customizer/setups/copyright-style.php:33
+#: inc/customizer/setups/copyright-style.php:34
+#: inc/customizer/setups/footer-style.php:97
+#: inc/customizer/setups/footer-style.php:98
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:119
+#: inc/customizer/setups/site-color.php:156
+#: inc/customizer/setups/nav-style.php:21
+#: inc/customizer/setups/nav-style.php:22
+#: inc/customizer/setups/nav-style.php:98
+#: inc/customizer/setups/nav-style.php:99
+#: inc/customizer/setups/nav-style.php:195
+#: inc/customizer/setups/nav-style.php:196
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer/setups/nav-style.php:113
+msgid "Link color hover"
+msgstr ""
+
+#: inc/customizer/setups/button-style.php:80
+msgid "Link Color on hover"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:133
+#: inc/customizer/setups/site-color.php:170
+#: inc/customizer/setups/top-style.php:123
+#: inc/customizer/setups/nav-style.php:210
+#: inc/customizer/setups/copyright-style.php:55
+#: inc/customizer/setups/footer-style.php:112
+msgid "Link color on hover"
+msgstr ""
+
+#: inc/customizer/setups/nav-spacing.php:20
+#: inc/customizer/setups/nav-spacing.php:43
+msgid "Link padding"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:118
+msgid "Link setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:130 inc/customizer/setups/site-logo.php:12
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/setups/site-logo.php:40
+msgid "Logo Padding"
+msgstr ""
+
+#: inc/customizer/setups/nav-spacing.php:14
+#: inc/customizer/setups/nav-spacing.php:37
+#: inc/customizer/setups/post-style.php:14
+#: inc/customizer/setups/site-color.php:13
+#: inc/customizer/setups/site-color.php:68
+#: inc/customizer/setups/nav-style.php:14
+#: inc/customizer/setups/nav-style.php:38
+#: inc/customizer/setups/nav-style.php:135 inc/customizer/setups/nav-bg.php:14
+#: inc/customizer/setups/nav-bg.php:22 inc/customizer/setups/nav-bg.php:53
+#: inc/customizer/setups/footer-bg.php:31
+#: inc/customizer/setups/footer-style.php:14
+#: inc/customizer/setups/footer-style.php:90
+#: inc/customizer/setups/footer-style.php:128
+#: inc/customizer/setups/page-style.php:14
+#: inc/customizer/setups/site-style.php:14
+#: inc/customizer/setups/site-style.php:75
+#: inc/customizer/setups/site-style.php:91
+#: inc/customizer/setups/nav-border.php:14
+#: inc/customizer/setups/nav-border.php:68
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci earum est,"
+" explicabo id illo quae!"
+msgstr ""
+
+#: inc/customizer/setups/nav-bg.php:21
+msgid "Main Background"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:54
+msgid "Map zoom level"
+msgstr ""
+
+#: inc/customizer/setups/top-spacing.php:26
+#: inc/customizer/setups/footer-spacing.php:26
+#: inc/customizer/setups/button-spacing.php:26
+#: inc/customizer/setups/header-spacing.php:26
+msgid "Margin"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:43
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/customizer/setups/nav-bg.php:96
+msgid "Mobile menu background"
+msgstr ""
+
+#: inc/template-tags.php:205
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/customizer/customizer.php:50 inc/customizer/customizer.php:56
+#: inc/customizer/customizer.php:62 inc/customizer/customizer.php:68
+#: inc/customizer/customizer.php:74 inc/customizer/customizer.php:80
+#: inc/customizer/customizer.php:86 inc/customizer/customizer.php:92
+#: inc/customizer/customizer.php:98 inc/customizer/customizer.php:104
+#: inc/customizer/customizer.php:110
+msgid "My Description"
+msgstr ""
+
+#: comments.php:93
+msgid "Name *"
+msgstr ""
+
+#: inc/customizer/customizer.php:67
+msgid "Navigation"
+msgstr ""
+
+#: comments.php:45 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:55
+msgid "No Repeat"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/setups/header-bg.php:50
+msgid "Number Background Color"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:79
+msgid "OFF"
+msgstr ""
+
+#: comments.php:43 comments.php:70
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Older posts"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:78
+msgid "ON"
+msgstr ""
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/setups/page-bg.php:35 inc/customizer/setups/post-bg.php:35
+msgid "Overlay color"
+msgstr ""
+
+#: inc/customizer/setups/top-spacing.php:12
+#: inc/customizer/setups/footer-spacing.php:12
+#: inc/customizer/setups/button-spacing.php:12
+#: inc/customizer/setups/header-spacing.php:12
+#: inc/customizer/setups/post-spacing.php:20
+#: inc/customizer/setups/page-spacing.php:20
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "Page"
+msgstr ""
+
+#: inc/extras.php:118
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/meta-box.php:58
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer/setups/page-layout.php:12
+msgid "Page layout"
+msgstr ""
+
+#: inc/meta-box.php:49
+msgid "Page Settings"
+msgstr ""
+
+#: page.php:65 template-parts/content.php:33 template-parts/content-page.php:20
+#: template-parts/content-single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Post"
+msgstr ""
+
+#: inc/template-tags.php:145
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:140
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:210
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:212
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:214
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:12
+msgid "Post layout"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Post navigation"
+msgstr ""
+
+#: template-parts/content-index.php:20 template-parts/content-blog.php:25
+#: template-parts/content-single.php:24
+#: inc/vc-template/thememove_recentposts.php:45
+msgid "Posted by "
+msgstr ""
+
+#: inc/template-tags.php:164
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:59
+msgid "Price labels and sale flashes"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:12
+#: inc/customizer/setups/woo-color.php:12
+msgid "Primary color"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/vc-template/thememove_recentposts.php:59
+#: inc/vc-template/thememove_recentposts.php:101
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat All"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:58
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/setups/site-logo.php:22
+msgid "Retina Logo"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:72
+msgid "Right Bottom"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/setups/copyright-layout.php:44
+msgid "Right Text"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Top"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:65
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:32
+msgid "Search box"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:66
+msgid "Search layout"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/setups/site-color.php:67
+#: inc/customizer/setups/woo-color.php:37
+msgid "Secondary color"
+msgstr ""
+
+#: inc/customizer/setups/button-bg.php:13
+#: inc/customizer/setups/button-bg.php:28
+msgid "Setup background color for your button"
+msgstr ""
+
+#: inc/customizer/setups/footer-bg.php:13
+#: inc/customizer/setups/footer-bg.php:39
+msgid "Setup background color for your footer"
+msgstr ""
+
+#: inc/customizer/setups/header-bg.php:21 inc/customizer/setups/site-bg.php:13
+#: inc/customizer/setups/page-bg.php:21 inc/customizer/setups/post-bg.php:21
+msgid "Setup background color for your header"
+msgstr ""
+
+#: inc/customizer/setups/top-bg.php:13
+msgid "Setup background color for your top"
+msgstr ""
+
+#: inc/customizer/setups/page-bg.php:36 inc/customizer/setups/post-bg.php:36
+msgid "Setup overlay color for your header"
+msgstr ""
+
+#: template-parts/content-index.php:40 template-parts/content-blog.php:45
+#: template-parts/content-single.php:49
+msgid "Share: "
+msgstr ""
+
+#: woocommerce/loop/result-count.php:26
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:24
+msgid "Showing the single result"
+msgstr ""
+
+#: functions.php:116 functions.php:118
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:157 functions.php:159
+msgid "Sidebar for shop"
+msgstr ""
+
+#: inc/meta-box.php:66
+msgid "Sidebar-Content"
+msgstr ""
+
+#: inc/customizer/setups/woo-layout.php:28
+msgid "Single Product Page Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Site"
+msgstr ""
+
+#: inc/customizer/setups/site-layouts.php:20
+msgid "Site layout"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:23
+msgid "Skin"
+msgstr ""
+
+#: functions.php:57
+msgid "Social Profile Menu"
+msgstr ""
+
+#: inc/customizer/setups/header-border.php:32
+#: inc/customizer/setups/button-border.php:34
+#: inc/customizer/setups/footer-border.php:32
+#: inc/customizer/setups/top-border.php:39
+#: inc/customizer/setups/nav-border.php:37
+#: inc/customizer/setups/nav-border.php:91
+msgid "Solid"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/vc-template/thememove_blog.php:22
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: inc/customizer/customizer.php:181 inc/customizer/customizer.php:218
+#: inc/customizer/customizer.php:255 inc/customizer/customizer.php:292
+#: inc/customizer/customizer.php:329 inc/customizer/customizer.php:382
+#: inc/customizer/customizer.php:419 inc/customizer/customizer.php:456
+msgid "Spacing"
+msgstr ""
+
+#: inc/customizer/setups/nav-layout.php:12
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:151 inc/customizer/customizer.php:174
+#: inc/customizer/customizer.php:211 inc/customizer/customizer.php:248
+#: inc/customizer/customizer.php:285 inc/customizer/customizer.php:322
+#: inc/customizer/customizer.php:359 inc/customizer/customizer.php:375
+#: inc/customizer/customizer.php:412
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:79
+msgid "Subtext Color"
+msgstr ""
+
+#: inc/template-tags.php:199
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/setups/copyright-style.php:12
+#: inc/customizer/setups/footer-style.php:74
+msgid "Text Color"
+msgstr ""
+
+#: inc/back-compat.php:38 inc/back-compat.php:48 inc/back-compat.php:62
+#, php-format
+msgid ""
+"ThemeMove requires at least WordPress version 3.9. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeMove Team"
+msgstr ""
+
+#: inc/customizer/setups/post-style.php:76
+#: inc/customizer/setups/page-style.php:76
+#: inc/customizer/setups/site-style.php:153
+msgid "This is some extra help text."
+msgstr ""
+
+#: inc/meta-box.php:76
+msgid "Title Background"
+msgstr ""
+
+#: inc/vc-maps/blog.php:3
+msgid "TM Blog"
+msgstr ""
+
+#: inc/vc-maps/button.php:3
+msgid "TM Button"
+msgstr ""
+
+#: inc/vc-maps/google-map.php:3
+msgid "TM Google Maps"
+msgstr ""
+
+#: inc/vc-maps/recent-post.php:3
+msgid "TM Recent Posts"
+msgstr ""
+
+#. Name of the theme
+msgid "TM_Transport"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/setups/top-layout.php:12
+msgid "Top area"
+msgstr ""
+
+#: functions.php:58
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:146 functions.php:148
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:126 functions.php:128
+msgid "Top Slider"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:73
+msgid "Turn on this option if you want to enable box mode for content"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:44
+msgid "Turn on this option if you want to enable mini cart for header"
+msgstr ""
+
+#: inc/customizer/setups/header-layout.php:33
+msgid "Turn on this option if you want to enable search box on your site"
+msgstr ""
+
+#: inc/customizer/setups/nav-layout.php:13
+msgid "Turn on this option if you want to enable sticky header on your site"
+msgstr ""
+
+#: inc/customizer/io.php:23
+msgid "Upload a file to import customization settings for this theme."
+msgstr ""
+
+#: inc/meta-box.php:77
+msgid "Upload an image or enter a URL for heading title"
+msgstr ""
+
+#: inc/customizer/setups/woo-color.php:80
+msgid "Used for certain text and asides - breadcrumbs, small text etc"
+msgstr ""
+
+#: core/customizer/kirki/includes/class-kirki-toolkit.php:89
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/extras.php:150
+msgid "View your shopping cart"
+msgstr ""
+
+#: comments.php:95
+msgid "Website"
+msgstr ""
+
+#: inc/customizer/customizer.php:103
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/template-tags.php:203
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:203
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:192
+msgid "Your comment is awaiting moderation."
+msgstr ""
